@@ -1,0 +1,5 @@
+go build helloworld.go
+go run helloworld.go
+rm helloworld
+
+maksimum value saat convert type number 
